@@ -96,10 +96,6 @@ the totals for each URL like so:
 Quick Start
 -----------
 
-**[Download the code][3]** if you want to follow along.
-
-[3]: http://multipart-mixed.com/downloads/software/simple_map_reduce.zip
-
 Open a couple shell windows. Run "rake rinda" in one; this starts
 background tasks for the ring server and tuplespace. Then run "rake
 worker" in a couple. The workers can be spread over multiple machines,
